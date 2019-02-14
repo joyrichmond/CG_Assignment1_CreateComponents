@@ -1,0 +1,21 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+
+}
+
+p {
+    background-color: darkred;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 2rem;
+    border: 2px solid white;
+    text-align: center;
+    width: 40rem;
+    padding: 2rem;
+    border-radius: 10px;
+    border: solid 2px red;
+}
